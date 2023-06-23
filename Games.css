@@ -145,6 +145,7 @@
   box-shadow: 0px 0px 0px rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  background-image: none;
   margin: 32px auto 0;
 }
 
@@ -307,6 +308,7 @@
   box-shadow: 0px 0px 0px rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  background-image: none;
   margin: 39px auto 0;
 }
 

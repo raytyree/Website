@@ -1,7 +1,6 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/20230328_123453.jpg");
   min-height: 479px;
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-image-1 {
@@ -20,6 +19,7 @@
 
 @media (max-width: 1199px) {
    .u-section-1 {
+    background-position: 50% 50%;
     min-height: 119px;
   }
 
@@ -38,21 +38,11 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-left: calc(((100% - 991px) / 2) + 691px);
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: calc(((100% - 991px) / 2) + 429px);
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-image-1 {
-    margin-left: calc(((100% - 540px) / 2) + 240px);
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-left: calc(((100% - 540px) / 2) + 234px);
+    margin-left: auto;
   }
 }
 
@@ -63,13 +53,11 @@
 
   .u-section-1 .u-image-1 {
     margin-top: 29px;
-    margin-left: auto;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: 14px;
-    margin-left: auto;
     margin-bottom: 18px;
   }
 } .u-section-2 {
