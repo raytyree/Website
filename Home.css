@@ -283,11 +283,17 @@
 
 @media (max-width: 575px) {
    .u-section-3-3 {
-    min-height: 142px;
+    min-height: 336px;
   }
 
   .u-section-3-3 .u-text-1 {
     font-size: 3.75rem;
+    width: auto;
+    margin-top: 60px;
+  }
+
+  .u-section-3-3 .u-text-2 {
+    width: auto;
   }
 }body {
     background-color: rgb(209, 209, 209);

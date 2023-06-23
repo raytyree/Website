@@ -41801,8 +41801,8 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-image-1 {
     width: 56px;
     height: 55px;
-    margin-top: 15px;
-    margin-left: calc(((100% - 340px) / 2) + -28px);
+    margin-top: 12px;
+    margin-left: calc(((100% - 340px) / 2));
   }
 
   .u-header .u-social-icons-1 {
@@ -41811,9 +41811,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -45px;
-    margin-right: calc(((100% - 340px) / 2) + -21px);
-    margin-bottom: 15px;
+    margin-top: -47px;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-bottom: 20px;
   }
 }
 .u-footer .u-sheet-1 {
