@@ -110,7 +110,8 @@
 
   .u-section-2 .u-text-2 {
     width: 340px;
-    margin-right: calc(((100% - 1920px) / 2) + 840px);
+    margin-left: auto;
+    margin-right: auto;
   }
 } .u-section-3 {
   background-image: none;
